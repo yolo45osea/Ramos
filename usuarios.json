@@ -7,57 +7,45 @@
           "id": "Diseño y Gestion de Requisitos",
           "nombre": "Diseño y Gestión de Requisitos",
           "categoria": "especialidad",
-          "notas":{
-            
-          }
+          "notas": []
+
         },
         {
           "id": "Programacion de Algoritmos",
           "nombre": "Programación de Algoritmos",
           "categoria": "especialidad",
-          "notas": {
+          "notas": []
 
-          }
         },
         {
           "id": "Modelamiento de Base de Datos",
           "nombre": "Modelamiento de Base de Datos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Nivelacion Matematica",
           "nombre": "Nivelación Matemática",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Habilidades Basicas de Comunicacion",
           "nombre": "Habilidades Básicas de Comunicación",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Ingles Basico I",
           "nombre": "Inglés Básico I",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 1",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -68,65 +56,49 @@
           "id": "Diseno de Prototipos",
           "nombre": "Diseño de Prototipos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Desarrollo de Software de Escritorio",
           "nombre": "Desarrollo de Software de Escritorio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Consulta de Base de Datos",
           "nombre": "Consulta de Base de Datos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Matematica Aplicada",
           "nombre": "Matemática Aplicada",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Habilidades de Comunicacion Efectiva",
           "nombre": "Habilidades de Comunicación Efectiva",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Ingles Basico II",
           "nombre": "Inglés Básico II",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Fundamentos de Antropologia",
           "nombre": "Fundamentos de Antropología",
           "categoria": "valores",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 2",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -137,57 +109,43 @@
           "id": "Ingenieria de Software",
           "nombre": "Ingeniería de Software",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Programacion Web",
           "nombre": "Programación Web",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Programacion de Base de Datos",
           "nombre": "Programación de Base de Datos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Mentalidad Emprendedora",
           "nombre": "Mentalidad Emprendedora",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Ingles Elemental",
           "nombre": "Inglés Elemental",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Curso de Formacion Cristiana",
           "nombre": "Curso de Formación Cristiana",
           "categoria": "valores",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 3",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -198,57 +156,43 @@
           "id": "Calidad de Software",
           "nombre": "Calidad de Software",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Programacion de Aplicaciones Moviles",
           "nombre": "Programación de Aplicaciones Móviles",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Arquitectura",
           "nombre": "Arquitectura",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Estadistica Descriptiva",
           "nombre": "Estadística Descriptiva",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Ingles Intermedio",
           "nombre": "Inglés Intermedio",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Etica Para el Trabajo",
           "nombre": "Ética Para el Trabajo",
           "categoria": "valores",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 4",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -259,57 +203,43 @@
           "id": "Evaluacion de Proyectos",
           "nombre": "Evaluación de Proyectos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "BPM",
           "nombre": "BPM",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Integracion de Plataformas",
           "nombre": "Integración de Plataformas",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Practica Laboral",
           "nombre": "Práctica Laboral",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Ingles Intermedio Alto",
           "nombre": "Inglés Intermedio Alto",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Gestion Agil de Proyectos",
           "nombre": "Gestión Ágil de Proyectos",
           "categoria": "electivo",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 5",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -320,57 +250,43 @@
           "id": "Gestion de Proyectos Informaticos",
           "nombre": "Gestión de Proyectos Informáticos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Inteligencia de Negocios",
           "nombre": "Inteligencia de Negocios",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Seguridad en Sistemas Computacionales",
           "nombre": "Seguridad en Sistemas Computacionales",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Herramientas Para el Emprendimiento",
           "nombre": "Herramientas Para el Emprendimiento",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Integrated English Practice",
           "nombre": "Integrated English Practice",
           "categoria": "formacion_basica",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Machine Learning",
           "nombre": "Machine Learning",
           "categoria": "electivo",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 6",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -381,41 +297,31 @@
           "id": "Gestion de Riesgos",
           "nombre": "Gestión de Riesgos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Mineria de Datos",
           "nombre": "Minería de Datos",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Big Data",
           "nombre": "Big Data",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Proximo Electivo",
           "nombre": "Próximo Electivo",
           "categoria": "electivo",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Portafolio 7",
           "nombre": "Portafolio",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     },
@@ -426,17 +332,13 @@
           "id": "Capstone",
           "nombre": "Capstone",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         },
         {
           "id": "Practica Profesional",
           "nombre": "Práctica Profesional",
           "categoria": "especialidad",
-          "notas": {
-
-          }
+          "notas": []
         }
       ]
     }
